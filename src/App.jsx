@@ -4,7 +4,7 @@ import TodoContainer from './components/main/TodoContainer'
 import Footer from './components/footer/Footer'
 import Stats from './components/stats/Stats'
 import Input from './components/Input/Input'
-import Filters from './components/filters/filters'
+import Filters from './components/filters/Filters'
 
 export class App extends React.Component {
 	constructor(props) {
