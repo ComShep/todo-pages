@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Header from './components/header/Header'
 import TodoContainer from './components/main/TodoContainer'
 import Footer from './components/footer/Footer'
-import Stats from './components/stats/stats'
+import Stats from './components/stats/Stats'
 import Input from './components/Input/Input'
 import Filters from './components/filters/filters'
 
